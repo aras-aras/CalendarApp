@@ -1,4 +1,4 @@
-[TODO] Sprint 2 resume deliverable
+[TODO] Sprint 4 resume deliverable
 
 It should contain:
 
