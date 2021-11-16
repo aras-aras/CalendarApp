@@ -1,1 +1,1 @@
-Home of the wiki for the Main Quest deliverables
+Home of the wiki for the Main Quest project and deliverables 
