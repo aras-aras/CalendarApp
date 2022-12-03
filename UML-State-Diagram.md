@@ -1,3 +1,1 @@
-[TODO] UML State Diagram deliverable
-
-(check the iteration guide on moodle for more details on this deliverable, later on).
+![State_Diagram.drawio](uploads/63eeefc2a926edbf796d00d04a96c4e9/State_Diagram.drawio.png)
