@@ -1,1 +1,1 @@
-![uml__1_](uploads/76b92d744ca9f7b90cd743ea47ccad9d/uml__1_.jpg)
+![class1](uploads/5f8ea484852df8df220ef8b995f721d6/class1.png)
