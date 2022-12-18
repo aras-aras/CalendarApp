@@ -8,4 +8,4 @@ It should contain:
 - Sprint Retrospective: "Did well", "Do differently", "Puzzles".
 - Sprint Review: A team and product owner' perspective of the product increment of the current sprint. 
 
-All these Sprint-related items should be produced at the end of each sprint
+All these Sprint-related items should be produced at the end of each sprint[Sprint_Review_5.pdf](uploads/8444d5472ba54b5ce152e754be4f5299/Sprint_Review_5.pdf)
