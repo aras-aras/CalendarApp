@@ -1,1 +1,1 @@
-![class1](uploads/5f8ea484852df8df220ef8b995f721d6/class1.png)
+![class2](uploads/de31b97de77607b2b508d98e7ed6123d/class2.png)
