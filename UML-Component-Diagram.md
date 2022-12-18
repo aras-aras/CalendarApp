@@ -1,1 +1,1 @@
-![uml-component-diagram](uploads/c2bafb9cf5d74204478ee62e0fcbc2ec/uml-component-diagram.png)
+![uml-component-diagram](uploads/10f681fe0f6d00d36533d3add9556370/uml-component-diagram.png)
