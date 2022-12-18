@@ -1,1 +1,1 @@
-![sequencediagram.drawio](uploads/93c1df354206dc1ae9f811cea273c9fd/sequencediagram.drawio.png)
+![Sequence_Diagram__Bank_Operations](uploads/e7fc12390a0e37f03d869bd8a592926a/Sequence_Diagram__Bank_Operations.png)
