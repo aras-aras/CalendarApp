@@ -14,4 +14,4 @@ Click on this option and click on the plus icon to "Add a new configuration". Wh
 After this, in the VM options field add this: "--module-path ${PATH_TO_FX} --add-modules javafx.fxml,javafx.controls,javafx.graphics", replacing the ${PATH_TO_FX} with the path to the javafx sdk lib directory. So in my case, as an example, it would be like this: "--module-path "C:\Users\ritat\OneDrive\Ambiente de Trabalho\FEUP\Mestrado em EEC - AUTO\1º Ano\1º Semestre\PSW\TRABALHO\javafx-sdk-19\lib" --add-modules javafx.fxml,javafx.controls,javafx.graphics" - don't forget it's the lib folder! 
 Consequently, in the Main class field just choose the "HelloApplication". You can also add a name to your liking if you want, like "Schedula" for example. Save your changes.
 
-After this, connect to the FEUP VPN if you are not already connected and you should be able to run the program smoothly! Have fun!
+Afterwards, connect to the FEUP VPN if you are not already connected and you should be able to run the program smoothly! Have fun!
