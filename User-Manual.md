@@ -7,7 +7,12 @@ First, in order to start planning your events, you need to have an account in Sc
 However, there are some restrictions in the birthday and password fields. In the first one, you should enter your birthday in the format dd-mm-yyyy. Related to the password, you need to have more than 6 characters in order to successfully create your account. 
 After that, you will see your welcoming page which have a button "Daily View" that leads you to your Daily View where you can see your daily events. 
 To easily navigate on the application you have a sidebar, that ables you to either go to your daily view, to your account settings or to just simply log out. 
+
+
 ![imagem](uploads/12059677b978779d524443fbbec1bd91/imagem.png)
+
+
+
 When you click on "Daily View", you'll have an date picker that will then open the daily view in the day chosen. On this view, you have 4 buttons: show events, add event, delete event and change event. 
 For you to see your events on the selected day, you press the "Show events" button. Your events will appear as shown below.
 ![imagem](uploads/71dc0cbf73684914feee40704e4475a9/imagem.png)
