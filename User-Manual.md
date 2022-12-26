@@ -17,7 +17,11 @@ To easily navigate on the application you have a sidebar, that ables you to eith
 
 When you click on "Daily View", you'll have an date picker that will then open the daily view in the day chosen. On this view, you have 4 buttons: show events, add event, delete event and change event. 
 For you to see your events on the selected day, you press the "Show events" button. Your events will appear as shown below.
+
+
 ![imagem](uploads/71dc0cbf73684914feee40704e4475a9/imagem.png)
+
+
 To add an event to your account, you click on the "Add event" button. By doing this, it will apear to you the following fields to complete: 
 
 
@@ -30,6 +34,8 @@ When entering the information to your events you need to respect the following r
 - You can't have events with the same name;
 - The format of the dates are the same as when creating an account (dd-mm-yyyy);
 - The format of the hours are hh:mm.
+
+
 After filling in all the blanks, you can now add your event by pressing the "Add" button. 
 To change an event, you first need to enter the event's name that you want to change. If the event's name exists, then, it will appear the same parameters as in the add event feature for you to fill in. Save your changes by clicking on the "Save details" button!
 Finally, if you want to delete an event, you press the "Delete event" button. It's necessary to enter the event's name that you want to delete. 
