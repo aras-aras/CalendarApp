@@ -8,6 +8,7 @@ First, in order to start planning your events, you need to have an account in Sc
 
 However, there are some restrictions in the birthday and password fields. In the first one, you should enter your birthday in the format dd-mm-yyyy. Related to the password, you need to have more than 6 characters in order to successfully create your account. 
 After that, you will see your welcoming page which have a button "Daily View" that leads you to your Daily View where you can see your daily events. 
+
 To easily navigate on the application you have a sidebar, that ables you to either go to your daily view, to your account settings or to just simply log out. 
 
 
@@ -16,6 +17,7 @@ To easily navigate on the application you have a sidebar, that ables you to eith
 
 
 When you click on "Daily View", you'll have an date picker that will then open the daily view in the day chosen. On this view, you have 4 buttons: show events, add event, delete event and change event. 
+
 For you to see your events on the selected day, you press the "Show events" button. Your events will appear as shown below.
 
 
@@ -37,10 +39,16 @@ When entering the information to your events you need to respect the following r
 
 
 After filling in all the blanks, you can now add your event by pressing the "Add" button. 
+
 To change an event, you first need to enter the event's name that you want to change. If the event's name exists, then, it will appear the same parameters as in the add event feature for you to fill in. Save your changes by clicking on the "Save details" button!
+
 Finally, if you want to delete an event, you press the "Delete event" button. It's necessary to enter the event's name that you want to delete. 
+
 On the "My account" section you are able to see your personal informations such as your username, password and birthday. Besides this, you can either delete your account or change your password by clicking on the respective buttons. 
+
 In order to delete your account, for your safety, you need to enter your credentials. If you enter them correctly, your account will be successfully deleted.
+
 If you'll like to change your password, press the "Change password" button. You need to fill in your username and old password in order to change it. 
+
 It seems that you now have all the instructions needed to start planning your upcoming commitments! Hope you enjoy!
 
